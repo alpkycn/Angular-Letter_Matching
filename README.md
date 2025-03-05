@@ -1,0 +1,2 @@
+# Angular-Letter_Matching
+Dieses Projekt ist eine Webanwendung zum Üben von Buchstaben- und Wortvergleichen. Der Benutzer sieht einen zufällig generierten Satz, bei dem die Buchstaben nach und nach eingegeben werden müssen, um mit den Buchstaben des Satzes übereinzustimmen. Wenn der Benutzer einen Buchstaben korrekt eingibt, wird dieser grün angezeigt, andernfalls rot. Sobald der gesamte Satz korrekt eingegeben wurde, erscheint eine Erfolgsmeldung ("Bravo!").
